@@ -1,0 +1,7 @@
+name: Plugin1
+version: ${project.version}
+main: org.epicgamer.fly.plugin1.Plugin1
+api-version: 1.16
+authors: [RainbowPROSline]
+description: frist plugin
+website: fly.epicgamer.org
